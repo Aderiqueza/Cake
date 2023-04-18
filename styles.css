@@ -1,0 +1,56 @@
+body {
+  padding: 20px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfFku12machbJ3GyqBXYF7cOGg5tJdvWjew&usqp=CAU);
+  font-family: sans-serif; 
+}
+
+.menu {
+  max-width: 100%;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: pink;
+}
+
+hr {
+  border-color: brown;
+  height: 2px;
+  background-color: brown;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 8%;
+}
+
+.established {
+  font-style: italic;
+}
+
+img {margin-left: 45%;
+  width: 10%;
+  margin-bottom: 9%;
+}
+
+.item {text-align: center;
+}
+
+.flavor, .price {
+  font-family: Impact;
+ display: inline-flex;
+}
+
+.flavor {margin-right: 50%;
+}
+
+.address {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-Serif;
+  font-style: oblique;
+}
